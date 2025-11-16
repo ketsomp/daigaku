@@ -1,4 +1,4 @@
-# 大学 Daigaku - Japanese Language Learning Application
+# 大学 Daigaku -  Language Learning Application
 
 A comprehensive Japanese language learning application built with Python and PyQt5, featuring flashcard review using the Spaced Repetition System (SRS) algorithm and immersion material tracking.
 
